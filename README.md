@@ -1,1 +1,1 @@
-NodeJS, ExpressJS, vueJS, API (Postman)
+NodeJS, ExpressJS, API (Postman)
